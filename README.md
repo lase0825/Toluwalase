@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lase0825" alt="lase0825" /></a> </p>
 
 
-[Toluwalase Ajina}(www.linkedin.com/in/toluwalaseajina) is a data enthusiast who loves transforming raw numbers into meaningful insights that can drive strategic decisions. With a strong analytical mindset, I thrive on finding patterns in complex data and turning them into actionable recommendations. I'm passionate about storytelling through data, helping teams and businesses understand trends, make informed decisions, and solve problems. I’m always excited to collaborate on projects that challenge my thinking and help me improve as an analyst.
+[Toluwalase Ajina](www.linkedin.com/in/toluwalaseajina) is a data enthusiast who loves transforming raw numbers into meaningful insights that can drive strategic decisions. With a strong analytical mindset, I thrive on finding patterns in complex data and turning them into actionable recommendations. I'm passionate about storytelling through data, helping teams and businesses understand trends, make informed decisions, and solve problems. I’m always excited to collaborate on projects that challenge my thinking and help me improve as an analyst.
 
 - 🔭 I’m currently working on **personal projects to strengthen my skills in exploratory data analysis (EDA) and dashboard development**
 
